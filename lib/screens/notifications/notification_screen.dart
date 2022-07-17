@@ -5,7 +5,7 @@ import 'package:shop_app/enums.dart';
 import 'components/body.dart';
 
 class NotificationScreen extends StatelessWidget {
-  static String routeName = "/cart";
+  static String routeName = "/notification";
   @override
   Widget build(BuildContext context) {
     return Scaffold(
